@@ -44,10 +44,6 @@ header {
     padding: 1rem;
 }
 
-footer nav {
-    background-color: #7fffd4;
-}
-
 .link-list li {
     list-style-type: none;
     margin: 0 1.5rem;
@@ -57,10 +53,6 @@ footer nav {
 
 ul.link-list {
     justify-content: center;
-}
-
-footer > div:first-of-type {
-    border-bottom: 3px solid #d3d3d3;
 }
 
 .footer-head {
@@ -267,4 +259,15 @@ aside * {
 
 .footer-head span > span {
     cursor: pointer;
+}
+
+.footer-bottom {
+    padding: 2rem;
+}
+
+footer hr {
+    width: 65%;
+    max-width: 1248px;
+    margin: 0 auto;
+    border: 1px solid #8ea1e1;
 }
