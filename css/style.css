@@ -12,14 +12,8 @@ body {
 header {
     background-image: url(../img/jumbo.png);
     background-size: cover;
-}
-
-article {
-    background-color: #1e90ff;
-}
-
-aside {
-    background-color: #ffc0cb;
+    max-width: 1920px;
+    margin: 0 auto;
 }
 
 .flex {
@@ -186,7 +180,7 @@ footer > div:first-of-type {
 
 .header-section {
     text-align: center;
-    margin: 3.5rem 0;
+    margin: 5.2rem 0;
     padding-bottom: 5rem;
 }
 
@@ -204,4 +198,21 @@ footer > div:first-of-type {
     font-size: 1.2rem;
     padding: .7rem 2rem;
     margin: 0 1rem 0 1rem;
+}
+
+.container {
+    margin: 7rem 5rem;
+}
+
+aside * {
+    padding: 2rem 4rem 0 4rem;
+    margin-left: 5rem;
+}
+
+.container h1 {
+    font-size: 2.7rem;
+}
+
+.container p {
+    font-size: 1.3rem;
 }
