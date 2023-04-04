@@ -150,7 +150,7 @@ footer > div:first-of-type {
 }
 
 .bg-light-grey {
-    background-color: #d3d3d3;
+    background-color: #f6f6f6;
 }
 
 .bg-pink {
@@ -201,12 +201,12 @@ footer > div:first-of-type {
 }
 
 .container {
-    margin: 7rem 5rem;
+    padding: 7rem 0;
 }
 
 aside * {
-    padding: 2rem 4rem 0 4rem;
-    margin-left: 5rem;
+    padding: 2rem 2rem 0.5rem 2rem;
+    margin: 0 3rem;
 }
 
 .container h1 {
