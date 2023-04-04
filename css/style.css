@@ -271,3 +271,12 @@ footer hr {
     margin: 0 auto;
     border: 1px solid #8ea1e1;
 }
+
+.wave {
+    width: 100%;
+    opacity: 0.03;
+}
+
+.wave:nth-of-type(even) {
+    transform: scaleY(-1);
+}
