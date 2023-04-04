@@ -76,6 +76,7 @@ footer > div:first-of-type {
     padding: .5rem .7rem;
     font-size: .9rem;
     cursor: pointer;
+    border: 0;
 }
 
 .width-70 {
