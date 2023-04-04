@@ -131,6 +131,7 @@ aside * {
 
 .footer-head span > span {
     cursor: pointer;
+    margin-bottom: .8rem;
 }
 
 footer > hr {
