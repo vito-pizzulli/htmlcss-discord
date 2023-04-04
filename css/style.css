@@ -275,6 +275,7 @@ footer hr {
 .wave {
     width: 100%;
     opacity: 0.03;
+    display: block;
 }
 
 .wave:nth-of-type(even) {
