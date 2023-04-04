@@ -176,7 +176,7 @@ footer > div:first-of-type {
 }
 
 .bg-violet {
-    background-color: #8ea1e1
+    background-color: #8ea1e1;
 }
 
 .text-white {
@@ -232,4 +232,18 @@ aside * {
 
 .container p {
     font-size: 1.3rem;
+}
+
+.footer-head h2 {
+    color: #8ea1e1;
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.footer-head span {
+    margin-bottom: 1.5rem;
+}
+
+.footer-head span > img {
+    width: 18px;
 }
