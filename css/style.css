@@ -1,0 +1,179 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+    border-bottom: 3px solid #b9e7ec;
+}
+
+article {
+    background-color: #1e90ff;
+}
+
+aside {
+    background-color: #ffc0cb;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.justify-space-between {
+    justify-content: space-between;
+}
+
+.align-end {
+    align-items: end;
+}
+
+.row-reverse {
+    flex-direction: row-reverse;
+}
+
+.header-navbar div {
+    background-color: #daa520;
+    height: 40px;
+    padding: .6rem;
+}
+
+footer nav {
+    background-color: #7fffd4;
+}
+
+.link-list li {
+    list-style-type: none;
+    padding: 0 .5rem;
+}
+
+ul.link-list {
+    justify-content: center;
+}
+
+nav.header-navbar {
+    background-color: #add8e6;
+}
+
+footer>div:first-of-type {
+    border-bottom: 3px solid #d3d3d3;
+}
+
+.footer-head {
+    padding-top: 1rem;
+}
+
+.header-navbar .login {
+    text-align: right;
+}
+
+.logo, .button {
+    background-color: #ffb6c1;
+    border-color: white;
+    padding: .2rem .5rem;
+}
+
+.width-70 {
+    width: 70%;
+    max-width: 1344px;
+}
+
+.width-50 {
+    width: 50%;
+    max-width: 960px;
+}
+
+.width-40 {
+    width: 40%;
+    max-width: 768px;
+}
+
+.width-30 {
+    width: 30%;
+    max-width: 576px;
+}
+
+.width-20 {
+    width: 20%;
+    max-width: 384px;
+}
+
+.width-12-5 {
+    width: 12.5%;
+    max-width: 240px;
+}
+
+.width-15 {
+    width: 15%;
+    max-width: 288px;
+}
+
+.height-900-px {
+    height: 900px;
+}
+
+.height-800-px {
+    height: 800px;
+}
+
+.height-500-px {
+    height: 500px;
+}
+
+.height-400-px {
+    height: 400px;
+}
+
+.height-60-px {
+    height: 60px;
+}
+
+.height-50-px {
+    height: 50px;
+}
+
+.dashed-border {
+    border: 2px dashed black;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-dark-blue {
+    background-color: #00008b;
+}
+
+.bg-light-grey {
+    background-color: #d3d3d3;
+}
+
+.bg-pink {
+    background-color: #ee82ee;
+}
+
+.bg-green {
+    background-color: #228b22;
+}
+
+.bg-black {
+    background-color: #23272a;
+}
+
+.bg-dark-pink {
+    background-color: #f08080;
+}
+
+.bg-dark-teal {
+    background-color: #20b2aa;
+    border-color: white;
+}
