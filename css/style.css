@@ -71,7 +71,8 @@ header {
     font-size: 1.2rem;
 }
 
-.header-section .button, .big-container .button {
+.header-section .button,
+.big-container .button {
     font-size: 1.2rem;
     padding: .7rem 2rem;
     margin: 0 1rem 0 1rem;
@@ -170,12 +171,16 @@ footer > hr {
 }
 
 .footer-bottom {
-    padding: 2rem;
+    padding: 2rem 2rem 8rem 2rem;
+}
+
+.arrow-down {
+    font-weight: bold;
 }
 
 .wave {
     width: 100%;
-    opacity: 0.03;
+    opacity: 0.035;
     display: block;
 }
 
