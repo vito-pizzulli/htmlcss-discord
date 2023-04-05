@@ -235,15 +235,7 @@ footer > hr {
 }
 
 
-/* TEXT COLOR AND BORDER SELECTORS */
+/* TEXT COLOR SELECTOR */
 .text-white {
     color: white;
-}
-
-.text-violet {
-    color: #8ea1e1;
-}
-
-.dashed-border {
-    border: 2px dashed black;
 }
